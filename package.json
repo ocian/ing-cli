@@ -1,0 +1,17 @@
+{
+  "name": "ing-cli",
+  "version": "0.0.1",
+  "description": "Node.js config tool for command line interface.",
+  "main": "index.js",
+  "repository": "https://github.com/ocian/out-cli.git",
+  "author": "shu <lliocian@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "eslint": "^4.19.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}
